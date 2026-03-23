@@ -1,3 +1,4 @@
+https://areviewanalyser.netlify.app/
 # ReviewPulse (demo dashboard)
 
 Frontend-only showcase: cross-platform e-commerce review summary (sentiment split, top issues/pros, per-platform breakdown, sample reviews). Data is hardcoded for demo purposes.
